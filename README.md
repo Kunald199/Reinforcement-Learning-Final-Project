@@ -13,3 +13,13 @@ In order to select if you want to play against the agent or want the agents to p
 
 
 The agent comparision can be seen in the Result folder.
+
+###################### Dependencies ##########################
+
+numpy
+
+pickle
+
+matplotlib
+
+random
